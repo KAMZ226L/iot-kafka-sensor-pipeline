@@ -212,6 +212,15 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+sensor_stream_data/
+*.zip
+.DS_Store
 __marimo__/
 
 # Streamlit
